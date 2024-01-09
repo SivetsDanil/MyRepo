@@ -1,1 +1,54 @@
 no difference with master/human.txt and demo/human.txt
+
+commits(10):
+task2
+SivetsDanil
+SivetsDanil
+committed
+1 minute ago
+Merge branch 'boots_buttons' into hat
+SivetsDanil
+SivetsDanil
+committed
+10 minutes ago
+Merge branch 'buttons' into boots_buttons
+SivetsDanil
+SivetsDanil
+committed
+44 minutes ago
+Merge branch 'boots' into boots_buttons
+SivetsDanil
+SivetsDanil
+committed
+44 minutes ago
+Commits on Jun 29, 2016
+fix readme
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+dots
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+README added
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+boots
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+heat added
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+init
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
